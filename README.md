@@ -29,7 +29,7 @@ In this project, I've created a simulation of a garage band using Object-Oriente
 To run the application, I use the following command:
 
 ```bash
-python main.py
+python (garage_band.py)
 ```
 
 ### How to Use
